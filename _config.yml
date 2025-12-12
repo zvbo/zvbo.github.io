@@ -1,0 +1,22 @@
+# Jekyll configuration
+title: zvbo's Blog
+author: zvbo
+email: your-email@example.com
+description: Personal blog and portfolio built with Jekyll
+baseurl: ""
+url: https://zvbo.github.io
+
+# Jekyll theme
+theme: jekyll-theme-minimal
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social media settings
+social:
+  links:
+    - https://twitter.com/
+    - https://github.com/zvbo
